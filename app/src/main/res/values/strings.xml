@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMFinder</string>
+    <string name="BMFinderLogin">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtUsername">UserName</string>
+    <string name="txtPassword">Password</string>
+    <string name="activity_home">BMFinder Home</string>
+    <string name="BMFinderWelcome">Mobile COE Finder app</string>
+    <string name="LoginSelect">Please Login to start Searching</string>
+    <string name="activity_login">Login</string>
+    <string name="activity_register">Register</string>
+    <string name="activity_BookSearch">Book Search</string>
+    <string name="activity_about">Book Search</string>
+    <string name="register_home">Please enter your details</string>
+    <string name="gender_select">Gender</string>
+    <string name="register_country">Country</string>
+    <string name="agreement">I Agree</string>
+    <string name="selectoption">Select your option</string>
+    <string name="CreatorName">Created by: Nishant Singh</string>
+    <string name="activity_BookSearchDetail">Book Detail</string>
+
+    <string name="ContactDetail">Email: nishant.a.singh@capgemini.com</string>
+    <string-array name="country_arrays">
+        <item>India</item>
+        <item>United States</item>
+        <item>Russia</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+    </string-array>
+</resources>
